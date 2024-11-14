@@ -92,7 +92,7 @@ Languagens And Worktools
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px; margin-right: 20px;"
-    src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true)](https://github.com/matheusbenvindo/MatheusBenvindo"
+    src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true"
 />
 
 <img

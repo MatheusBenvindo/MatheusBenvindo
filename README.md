@@ -1,12 +1,12 @@
 # 👨‍💻 Matheus Benvindo 
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
 Matheus Benvindo, sou natural de Brasília. Atualmente estou cursando Segurança da Informação na UCB, Administrador de Banco de Dados e Desenvolvimento Full Stack no SENAI.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+Languagens And Worktools
 
 <img
     align="left"
@@ -74,7 +74,7 @@ Matheus Benvindo, sou natural de Brasília. Atualmente estou cursando Segurança
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GITHUB STATS
 
 <!-- Alterando para um pouco mais de espaçamento entre as imagens -->
 <img

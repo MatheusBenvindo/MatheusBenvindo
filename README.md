@@ -8,6 +8,11 @@ Matheus Welcome, I'm from Brasília. I am currently studying Information Securit
 - A way to contact me email: benvindomatt@gmail.com
 ---
 
+</div>
+
+  ![Snake animation](https://github.com/Manelrx/Manelrx/blob/output/github-contribution-grid-snake.svg)
+
+  
 Portfolio
 
 ### Languagens And Worktools

@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente estou cursando Segurança da Informação na UCB, Administrador de Banco de Dados e Desenvolvimento Full Stack no SENAI.
+Matheus Benvindo, sou natural de Brasília. Atualmente estou cursando Segurança da Informação na UCB, Administrador de Banco de Dados e Desenvolvimento Full Stack no SENAI.
 
 ---
 
@@ -11,16 +11,16 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
 <img
     align="left"
     alt="HTML"
-    tittle="HTML"
+    title="HTML"
     width="30px"
     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <img 
     align="left"
     alt="CSS"
-    tittle="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
@@ -29,7 +29,7 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
 <img 
     align="left"
     alt="JavaScript"
-    tittle="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
@@ -38,7 +38,7 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
 <img 
     align="left"
     alt="Python"
-    tittle="Python"
+    title="Python"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -47,7 +47,7 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
 <img 
     align="left"
     alt="MySQL"
-    tittle="MySQL"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -55,32 +55,33 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
 <img 
     align="left"
     alt="Git"
-    tittle="Git"
+    title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<!-- Alterado para ícone SVG com cor azul -->
 <img
     align="left"
     alt="GitHub"
     title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000"
-    />
-
+    src="https://img.icons8.com/ios/452/github.png"
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas 
+### 📊 Estatísticas
 
+<!-- Alterando para um pouco mais de espaçamento entre as imagens -->
 <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
+    style="padding-right: 10px; margin-right: 20px;"
     src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 

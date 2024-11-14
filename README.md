@@ -80,7 +80,7 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Matheus Benvindo &show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
@@ -88,5 +88,5 @@ Me chamo Matheus Benvindo, tenho 20 anos e sou natural de Brasília. Atualmente 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermededeus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />

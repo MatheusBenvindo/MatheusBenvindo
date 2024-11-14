@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Matheus Welcome, I'm from Brasília. I am currently studying Information Security at UCB, Database Administrator and Full Stack Development at SENAI.
+Matheus Benvindo, I'm from Brasília. I am currently studying Information Security at UCB, Database Administrator and Full Stack Development at SENAI.
 
 - Im currently working learning about cybersecurity, database and fullstack
 - A way to contact me email: benvindomatt@gmail.com

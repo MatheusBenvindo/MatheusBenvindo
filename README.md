@@ -9,11 +9,6 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
 
 </div>
 
-  ![Snake animation](https://github.com/MatheusBenvindo/MatheusBenvindo/blob/output/github-contribution-grid-snake.svg)
-
-  
-Portfolio
-
 ### Languagens And Worktools
 
 <img

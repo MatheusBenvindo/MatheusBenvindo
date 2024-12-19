@@ -31,8 +31,8 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
 
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="C#"
+    title="C#"
     width="30px"
     style="padding-right: 10px;"
     src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://icongr.am/devicon/csharp-line.svg?size=128&color=ffffff)"

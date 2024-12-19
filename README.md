@@ -11,6 +11,51 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
 
 ### Languagens And Worktools
 
+<img 
+    align="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://icongr.am/devicon/csharp-original.svg?size=128&color=ffffff"
+/>
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    />
+
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/ios/452/github.png"
+/>
+
 <img
     align="left"
     alt="HTML"
@@ -31,15 +76,6 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
 
 <img 
     align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://icongr.am/devicon/csharp-original.svg?size=128&color=ffffff"
-/>
-
-<img 
-    align="left"
     alt="JavaScript"
     title="JavaScript"
     width="30px"
@@ -47,40 +83,8 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 />
 
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
 
-<img 
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/ios/452/github.png"
-/>
 
 <br/>
 <br/>

@@ -4,7 +4,7 @@
 
 Matheus Benvindo, I'm from Brasília. I am currently studying Information Security at UCB, Database Administrator and Full Stack Development at SENAI.
 
-- Im currently working learning about cybersecurity, database and fullstack
+- Im currently working learning about SQL, PYTHON, C#, ADVANCED DATABASE PROCESSES. In the future in the full stack course I will see the front end.
 ---
 
 </div>

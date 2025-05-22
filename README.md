@@ -83,8 +83,41 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 />
 
+<img 
+    align="left"
+    alt="Angular"
+    title="Angular"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
 
+<img 
+    align="left"
+    alt="MongoDB"
+    title="MongoDB"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />        
+/>
 
+<img 
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"    
+/>
+
+<img 
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+/>
 
 <br/>
 <br/>

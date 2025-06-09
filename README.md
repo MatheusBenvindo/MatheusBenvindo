@@ -1,15 +1,10 @@
-# Welcome! I'm Matheus Benvindo a Full Stack Developer in development
+# Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus aprendizados para análise de sistemas procurando me aprofundar na área de ánalise de dados.
 
-**`Full Stack Developer`**
-
-Matheus Benvindo, I'm from Brasília. I am currently studying Information Security at UCB, Database Administrator and Full Stack Development at SENAI.
-
-- Im currently working learning about SQL, PYTHON, C#, ADVANCED DATABASE PROCESSES. In the future in the full stack course I will see the front end.
----
+Sou formado em segurança da informação e estou cursando Ciência da Computação. Também estou cursando um MBA em Análise de Dados e Auditoria e Governança em Tecnologia da Informação.
 
 </div>
 
-### Languagens And Worktools
+### Linguagens e Ferramentas que já trabalhei em projetos acadêmicos e pessoais.
 
 <img 
     align="left"

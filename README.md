@@ -6,7 +6,7 @@ Sou formado em segurança da informação e estou cursando Ciência da Computaç
 
 </div>
 
-### Linguagens e Ferramentas que já trabalhei em projetos acadêmicos e pessoais.
+### Linguagens e Ferramentas.
 
 <img 
     align="left"

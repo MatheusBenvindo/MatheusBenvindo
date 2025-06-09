@@ -13,15 +13,6 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
 
 <img 
     align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://icongr.am/devicon/csharp-original.svg?size=128&color=ffffff"
-/>
-
-<img 
-    align="left"
     alt="Python"
     title="Python"
     width="30px"
@@ -108,15 +99,6 @@ Matheus Benvindo, I'm from Brasília. I am currently studying Information Securi
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"    
-/>
-
-<img 
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
 />
 
 <br/>

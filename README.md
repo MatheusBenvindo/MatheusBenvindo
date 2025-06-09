@@ -4,6 +4,13 @@ Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus a
 
 Sou formado em segurança da informação e estou cursando Ciência da Computação. Também estou cursando um MBA em Análise de Dados e Auditoria e Governança em Tecnologia da Informação.
 
+
+<div align="left" dir="auto">
+  <a href="https://www.linkedin.com/in/matheus-ribeiro-636b25318/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
+  </a>
+</div>
+
 </div>
 
 ### Linguagens e Ferramentas.

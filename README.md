@@ -1,6 +1,6 @@
 # Seja bem vindo!.
 
-Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus aprendizados para análise de sistemas procurando me aprofundar na área de ánalise de dados
+Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus aprendizados para análise de dados. 
 
 Sou formado em segurança da informação e estou cursando Ciência da Computação. Também estou cursando um MBA em Análise de Dados e Auditoria e Governança em Tecnologia da Informação.
 

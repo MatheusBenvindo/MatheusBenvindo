@@ -82,15 +82,6 @@ Sou formado em segurança da informação e estou cursando Ciência da Computaç
 
 <img 
     align="left"
-    alt="MongoDB"
-    title="MongoDB"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"       
-/>
-
-<img 
-    align="left"
     alt="SQL"
     title="SQL"
     width="30px"

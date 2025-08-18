@@ -115,11 +115,11 @@ Sou formado em segurança da informação e estou cursando Ciência da Computaç
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true&bg_color=ffffff" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbenvindo&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbenvindo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4&bg_color=ffffff" 
   />
 </p>

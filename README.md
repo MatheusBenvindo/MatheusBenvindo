@@ -107,8 +107,6 @@ Sou formado em segurança da informação e estou cursando Ciência da Computaç
 <br/>
 <br/>
 
-### 📊 GITHUB STATS
-
 ## 📊 Estatísticas do GitHub
 
 <img

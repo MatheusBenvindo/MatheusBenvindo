@@ -1,4 +1,4 @@
-# Seja bem vindo!.
+# Seja bem vindo (a)!.
 
 Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus aprendizados para análise de dados. 
 

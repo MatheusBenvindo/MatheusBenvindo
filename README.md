@@ -106,8 +106,8 @@ Sou formado em segurança da informação e estou cursando Ciência da Computaç
 
 <img 
     align="left"
-    alt="C#"
-    title="C#"
+    alt=".NET"
+    title=".NET"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />

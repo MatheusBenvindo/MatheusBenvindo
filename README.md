@@ -2,7 +2,7 @@
 
 Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus aprendizados para análise de dados. 
 
-Sou formado em segurança da informação e estou cursando Ciência da Computação. Em paralelo estou cursando MBA em Análise de Dados e Auditoria e Governança em Tecnologia da Informação.
+Sou formado em segurança da informação e estou cursando Ciência da Computação. 
 
 
 <div align="left" dir="auto">

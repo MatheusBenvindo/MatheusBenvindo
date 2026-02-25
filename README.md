@@ -42,8 +42,13 @@ Profissional de Tecnologia em transição para a área de Dados, combinando uma 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbenvindo&layout=compact&langs_count=6&theme=nord&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusbenvindo&layout=compact&langs_count=6&theme=nord&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusbenvindo&theme=nord&hide_border=true" />
 </div>
 
 ---

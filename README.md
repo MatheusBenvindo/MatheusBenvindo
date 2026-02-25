@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Ribeiro
+# Matheus Ribeiro
 
 **Analista de Dados e Governança | Segurança da Informação | SQL & Python**
 

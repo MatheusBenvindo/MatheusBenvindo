@@ -1,134 +1,59 @@
-# Seja bem vindo (a)!.
+# Olá, eu sou o Matheus Ribeiro
 
-Me chamo Matheus. Estou estudando desenvolvimento fullstack, direcionando meus aprendizados para análise de dados. 
+**Analista de Dados e Governança | Segurança da Informação | SQL & Python**
 
-Sou formado em segurança da informação e estou cursando Ciência da Computação. 
+Profissional de Tecnologia em transição para a área de Dados, combinando uma sólida base em infraestrutura e segurança com expertise analítica. Com experiência no setor financeiro, foco na transformação de dados brutos em decisões estratégicas, sempre pautado pela qualidade, segurança e conformidade (ISO 27001).
 
+---
 
-<div align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-636b25318/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
+### 🚀 Sobre Mim
+- 🎓 **Educação:** MBA em Análise de Dados e Bacharelando em Ciência da Computação (UCB).
+- 💼 **Background:** Especialista em Governança de TI com sólida vivência em sustentação de ambientes críticos (N3).
+- 🔍 **Foco Atual:** Automação de processos via Python e modelagem de dados estratégica para Business Intelligence.
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+
+#### **Análise de Dados & IA**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI" />
+</div>
+
+#### **Bancos de Dados & Governança**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" title="Oracle" />
+  <img src="https://img.icons8.com/color/48/000000/shield.png" width="40" title="ISO 27001 / Security" />
+</div>
+
+#### **Outras Tecnologias**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" title="JavaScript" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbenvindo&layout=compact&langs_count=6&theme=nord&hide_border=true" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-ribeiro-636b25318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mattbenvindo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-</div>
-
-### Linguagens e Ferramentas.
-
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-    />
-
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/ios/452/github.png"
-/>
-
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/>
-
-<img 
-    align="left"
-    alt="Angular"
-    title="Angular"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"    
-/>
-
-<img 
-    align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
-<img 
-    align="left"
-    alt=".NET"
-    title=".NET"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-
-<br/>
-<br/>
-
-## 📊 Estatísticas do GitHub
-
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px; margin-right: 20px; margin-bottom: 20px;"
-    src="https://github-readme-stats.vercel.app/api?username=matheusbenvindo&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&bg_color=ffffff"
-/>
-
-<img
-    align="left"
-    alt="Top Langs"
-    height="200"
-    style="padding-right: 10px; margin-bottom: 20px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbenvindo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4&bg_color=ffffff"
-/>

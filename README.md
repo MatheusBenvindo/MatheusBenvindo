@@ -2,13 +2,13 @@
 
 **Analista de Dados & Governança de TI | Foco em GRC e Automação**
 
-[cite_start]Profissional de Tecnologia com sólida base em infraestrutura e segurança, atuando na transição estratégica para a área de Dados[cite: 105]. [cite_start]Com experiência no setor financeiro, foco na transformação de dados brutos em decisões estratégicas, sempre pautado pela qualidade, segurança e conformidade (ISO 27001)[cite: 106, 117].
+Profissional de Tecnologia com sólida base em infraestrutura e segurança, atuando na transição estratégica para a área de Dados. Com experiência no setor financeiro, foco na transformação de dados brutos em decisões estratégicas, sempre pautado pela qualidade, segurança e conformidade (ISO 27001).
 
 ---
 
 ### 🚀 Sobre Mim
-- [cite_start]🎓 **Educação:** Pós-graduado em Auditoria de TI, MBA em Análise de Dados e Bacharelando em Ciência da Computação (UCB)[cite: 135, 136, 137].
-- [cite_start]💼 **Background:** Experiência em Governança de TI e Auditoria, com vivência em sustentação de ambientes críticos (N3) e gestão de identidades (IAM)[cite: 115, 116, 118].
+🎓 **Educação:** Pós-graduado em Auditoria de TI, MBA em Análise de Dados e Bacharelando em Ciência da Computação (UCB).
+💼 **Background:** Experiência em Governança de TI e Auditoria, com vivência em sustentação de ambientes críticos (N3) e gestão de identidades (IAM).
 
 ---
 

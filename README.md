@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" height="40" alt="powerautomate logo" />
+  <img src="https://img.icons8.com/fluency/50/microsoft-power-automate-2020.png" height="40" alt="powerautomate logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />

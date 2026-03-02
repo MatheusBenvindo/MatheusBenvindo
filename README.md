@@ -1,12 +1,10 @@
-# Olá, eu sou Matheus Ribeiro! 👋
-
+# Matheus Ribeiro
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
 </div>
 
@@ -16,33 +14,35 @@
 
 #### **Desenvolvimento & Automação**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
 #### **Dados & Inteligência Operacional**
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="powerbi logo" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-power-automate.png" height="40" alt="powerautomate logo" />
+  <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" height="40" alt="powerautomate logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
 </div>
 
 #### **Bancos de Dados & Versionamento**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://img.icons8.com/color/48/database.png" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
 ---
@@ -58,5 +58,5 @@
 [![Portfólio](https://img.shields.io/badge/my_portfolio-005DAA?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusbenvindo.github.io/mbr-portfolio/)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusBenvindo.MatheusBenvindo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusBenvindo.MatheusBenvindo&" />
 </div>

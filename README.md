@@ -5,12 +5,9 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
 </div>
 
 ---
@@ -57,7 +54,7 @@
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbenvindo)
 [![Portfólio](https://img.shields.io/badge/my_portfolio-005DAA?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusbenvindo.github.io/mbr-portfolio/)
 
 <div align="center">

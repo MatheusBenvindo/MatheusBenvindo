@@ -55,8 +55,8 @@
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbenvindo)
-[![Portfólio](https://matheusbenvindo.github.io/MBR-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ribeiro-636b25318/)
+[![Portfólio](https://img.shields.io/badge/my_portfolio-005DAA?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusbenvindo.github.io/MBR-Portfolio/)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusBenvindo.MatheusBenvindo&" />

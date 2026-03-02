@@ -4,8 +4,9 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
+  
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
 </div>
 
 ---

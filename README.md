@@ -1,37 +1,65 @@
-# Matheus Ribeiro
-
-**Analista de Dados & Governança de TI | Foco em GRC e Automação**
-
-Profissional de Tecnologia com sólida base em infraestrutura e segurança, atuando na transição estratégica para a área de Dados. Com experiência no setor financeiro, foco na transformação de dados brutos em decisões estratégicas, sempre pautado pela qualidade, segurança e conformidade (ISO 27001).
+# Olá, eu sou Matheus Ribeiro! 👋
 
 ---
 
-### 🚀 Sobre Mim
-🎓 **Educação:** Pós-graduado em Auditoria de TI, MBA em Análise de Dados e Bacharelando em Ciência da Computação (UCB).
-💼 **Background:** Experiência em Governança de TI e Auditoria, com vivência em sustentação de ambientes críticos (N3) e gestão de identidades (IAM).
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-#### **Análise de Dados & IA**
+#### **Desenvolvimento & Automação**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-#### **Bancos de Dados & Governança**
+#### **Dados & Inteligência Operacional**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" title="Oracle" />
-  <img src="https://img.icons8.com/color/48/000000/shield.png" width="40" title="ISO 27001 / GRC" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-automate.png" height="40" alt="powerautomate logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-#### **Outras Tecnologias**
+#### **Bancos de Dados & Versionamento**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/active-directory.png" width="40" title="Active Directory / IAM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+---
+
+### 🚀 Atualmente estudando...
+* 🎓 Pós-graduação em **Engenharia de Software: Automação e Inovação com IA Generativa** (UFG).
+* 💻 Evoluindo stacks de Backend.
+
+---
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Portfólio](https://img.shields.io/badge/my_portfolio-005DAA?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusbenvindo.github.io/mbr-portfolio/)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusBenvindo.MatheusBenvindo&"  />
 </div>

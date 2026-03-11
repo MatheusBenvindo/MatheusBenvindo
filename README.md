@@ -1,69 +1,59 @@
 # Matheus Ribeiro
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&hide=html,css&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Linguagens mais usadas" />
-  
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" alt="Estatísticas do GitHub" />
-</div>
+[English Version](#english-version) | [Versão em Português](#versão-em-português)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Versão em Português
 
-#### **Desenvolvimento & Automação**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-</div>
-
-#### **Dados & Inteligência Operacional**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/50/microsoft-power-automate-2020.png" height="40" alt="powerautomate logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-</div>
-
-#### **Bancos de Dados & Versionamento**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/database.png" height="40" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-</div>
+### Stack Técnica
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Engenharia Backend** | C# (.NET 9), Python, SQL Server, APIs RESTful |
+| **Dados & IA** |Pandas, NumPy, Power BI |
+| **Segurança & GRC** | Gestão de Identidades (IAM), Automação de Auditoria, PowerShell |
+| **Web & UI** | HTML5, CSS3 (Arquitetura Modular), JavaScript (ES6+) |
 
 ---
 
-### 🚀 Atualmente estudando...
-* 🎓 Pós-graduação em **Engenharia de Software: Automação e Inovação com IA Generativa** (UFG).
-* 💻 Evoluindo stacks de Backend (C#, .NET Core, APIs REST, Arquitetura de Software).
+<a name="english-version"></a>
+## English Version
+
+### Technical Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Backend Engineering** | C# (.NET 9), Python, SQL Server, RESTful APIs |
+| **Data & AI** |Pandas, NumPy, Power BI |
+| **Security & GRC** | Identity Management (IAM), Audit Automation, PowerShell |
+| **Web & UI** | HTML5, CSS3 (Advanced Layout), JavaScript (ES6+) |
 
 ---
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ribeiro-636b25318/)
-[![Portfólio](https://img.shields.io/badge/my_portfolio-005DAA?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusbenvindo.github.io/MBR-Portfolio/)
+### Projetos em Destaque | Featured Projects
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusBenvindo.MatheusBenvindo&" />
-</div>
+**Modelagem Preditiva de Atrasos Aéreos | Predictive Modeling of Flight Delays**
+* **PT:** Projeto de Ciência de Dados utilizando o algoritmo XGBoost para prever atrasos em voos, abrangendo desde o processamento de grandes volumes de dados até a otimização do modelo.
+* **EN:** Data Science project using the XGBoost algorithm to predict flight delays, covering large-scale data preprocessing and model optimization.
+
+**Core Python: Automação e Lógica | Core Python: Automation and Logic**
+* **PT:** Desenvolvimento de scripts robustos para automação de tarefas e resolução de problemas lógicos complexos, com foco em eficiência operacional.
+* **EN:** Development of robust scripts for task automation and complex logic problem-solving, focusing on operational efficiency.
+
+**BankFlow: Sistema de Filas | BankFlow: Queue Management System**
+* **PT:** Sistema de gestão de filas em tempo real desenvolvido com .NET 9 e SignalR, focado em alta performance e escalabilidade.
+* **EN:** Real-time queue management system built with .NET 9 and SignalR, focused on high performance and scalability.
+
+**Dashboard de Inteligência de SLA | SLA Intelligence Dashboard**
+* **PT:** Engenharia de dados e visualização estratégica de indicadores operacionais utilizando SQL e Power BI.
+* **EN:** Data engineering and strategic visualization of operational metrics using SQL and Power BI.
+
+---
+
+### Estatísticas | Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenvindo&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" />
+</p>
+
+---
+**Conecte-se comigo | Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/matheus-ribeiro-636b25318/) | [Portfolio](https://matheusbenvindo.github.io/MBR-Portfolio/)

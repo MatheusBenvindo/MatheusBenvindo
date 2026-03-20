@@ -16,9 +16,8 @@ Atualmente, curso Pós-graduação em **Engenharia de Software: Automação e In
 ## Stack Técnica Principal
 
 | Categoria | Tecnologias |
-| :--- | :--- |
 | **Engenharia Backend** | C# (.NET 9), Python, SQL Server, APIs RESTful |
-| **Dados & IA** | Pandas, NumPy, Power BI |
+| **Dados** | Pandas, NumPy, Power BI |
 | **Segurança & GRC** | Gestão de Identidades (IAM), Automação de Auditoria, PowerShell |
 | **Web & UI** | HTML5, CSS3 (Arquitetura Modular), JavaScript (ES6+) |
 

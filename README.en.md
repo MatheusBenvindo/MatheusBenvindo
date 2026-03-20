@@ -14,7 +14,6 @@ I am currently pursuing a Postgrad in **Software Engineering: Automation and Inn
 ## Core Technical Stack
 
 | Category | Technologies |
-| :--- | :--- |
 | **Backend Engineering** | C# (.NET 9), Python, SQL Server, RESTful APIs |
 | **Data & AI** | Pandas, NumPy, Power BI |
 | **Security & GRC** | Identity Management (IAM), Audit Automation, PowerShell |

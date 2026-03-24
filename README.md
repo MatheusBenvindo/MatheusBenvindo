@@ -1,15 +1,6 @@
 # Matheus Ribeiro
 
-**Instrutor de Tecnologia E Desenvolvimento de Sistemas & Software Engineer**
-
 🇺🇸 [English version: README.en.md](README.en.md)
-
----
-
-## Sobre Mim
-Sou Instrutor de Tecnologia no **SENAI-DF** e Engenheiro de Software. Minha trajetória une a experiência prática em Governança (GRC) e Segurança da Informação (ex-**Sicoob**) com o desenvolvimento moderno.
-
-Atualmente, curso Pós-graduação em **Engenharia de Software: Automação e Inovação com IA Generativa** pela Universidade Federal de Goiás (**UFG**), focando na otimização do ciclo de vida de desenvolvimento de software (SDLC) com tecnologias de ponta.
 
 ---
 

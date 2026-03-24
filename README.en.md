@@ -1,13 +1,5 @@
 # Matheus Ribeiro
 🇧🇷 [Versão em português: README.md](README.md)
-**Technology and Systems Development Instructor and Software Engineer**
-
----
-
-## About Me
-Technical Instructor at **SENAI-DF** and Software Engineer. My career bridges practical experience in Governance (GRC) and Information Security (ex-**Sicoob**) with modern software engineering.
-
-I am currently pursuing a Postgrad in **Software Engineering: Automation and Innovation with Generative AI** at the Federal University of Goiás (**UFG**), focusing on optimizing the Software Development Life Cycle (SDLC).
 
 ---
 

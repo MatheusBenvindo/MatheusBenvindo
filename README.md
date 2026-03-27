@@ -10,17 +10,34 @@
 
 ## Tecnologias
 
+### Backend
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" />
+</p>
+
+### Frontend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
+</p>
+
+### Banco de Dados
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+</p>
+
+### Ferramentas
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
 </p>
 
@@ -29,7 +46,7 @@
 ## Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200&hide=jupyter%20notebook" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" />
 </p>
 

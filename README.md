@@ -1,9 +1,9 @@
 # Matheus Ribeiro
 
 <p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Versão%20em%20Português-0A66C2?style=flat-square&logo=google-translate&logoColor=white" />
-  </a>
+<a href="README.en.md">
+  <img src="https://img.shields.io/badge/English%20version-0A66C2?style=flat-square&logo=google-translate&logoColor=white" />
+</a>
 </p>
 
 ---

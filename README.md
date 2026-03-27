@@ -10,35 +10,17 @@
 
 ## Tecnologias
 
-### Backend
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" />
-</p>
-
-### Frontend
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
-</p>
-
-### Banco de Dados
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
-</p>
-
-### Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
 </p>
 
 ---

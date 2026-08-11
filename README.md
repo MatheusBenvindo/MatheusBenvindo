@@ -33,13 +33,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&theme=transparent&locale=pt-br&langs_count=7&hide_border=true&layout=compact&title_color=005DAA&text_color=495057&icon_color=F39200&hide=jupyter%20notebook" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBenvindo&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&title_color=005DAA&text_color=495057&icon_color=F39200" />
 </p>
-
----
-
-## Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-b-ribeiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>

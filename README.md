@@ -42,7 +42,4 @@
   <a href="https://www.linkedin.com/in/matheus-b-ribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://matheusbenvindo.github.io/MBR-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>

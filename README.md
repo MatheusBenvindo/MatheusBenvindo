@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
 </p>
 
+
 ---
 
 ## Estatísticas

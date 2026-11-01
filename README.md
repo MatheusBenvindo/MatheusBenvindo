@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/profile-header.svg" alt="Matheus Ribeiro · Code, Data, Technology" />
+  <img width="100%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/profile-header.svg?v=20261031" alt="Matheus Ribeiro · Code, Data, Technology" />
 </p>
 
 <p align="center">

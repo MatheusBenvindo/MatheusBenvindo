@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-label="Projects">
+<rect x="1" y="1" width="398" height="198" rx="14" fill="#0F1D3A" stroke="#5BB8F0" stroke-opacity=".35"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 h370 a14 14 0 0 1 14 14 v19 h-398 z" fill="#1E3C78"/>
+<text x="18" y="23" fill="#FFFFFF" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" font-weight="700">dProjects</text>
+<text x="382" y="23" text-anchor="end" fill="#FFB08F" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600">1 repository</text>
+<text x="18" y="76" fill="#FFFFFF" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700">Projects</text>
+<rect x="18" y="103" width="6" height="6" rx="1" fill="#E84910"/>
+<text x="34" y="112" fill="#C9D6EA" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15">BankFlow: banking demo</text>
+</svg>

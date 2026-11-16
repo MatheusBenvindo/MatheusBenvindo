@@ -13,12 +13,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&amp;theme=transparent&amp;locale=pt-br&amp;hide_border=true&amp;title_color=5BB8F0&amp;text_color=C9D6EA&amp;icon_color=E84910&amp;langs_count=7&amp;layout=compact&amp;hide=jupyter%20notebook" />
-    <img width="43%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBenvindo&amp;theme=transparent&amp;locale=pt-br&amp;hide_border=true&amp;title_color=164194&amp;text_color=5B6B82&amp;icon_color=E84910&amp;langs_count=7&amp;layout=compact&amp;hide=jupyter%20notebook" alt="Linguagens mais utilizadas" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-dark.svg" />
+    <img width="43%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-light.svg" alt="Linguagens mais utilizadas" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBenvindo&amp;theme=transparent&amp;locale=pt-br&amp;hide_border=true&amp;title_color=5BB8F0&amp;text_color=C9D6EA&amp;icon_color=E84910&amp;show_icons=true" />
-    <img width="54%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBenvindo&amp;theme=transparent&amp;locale=pt-br&amp;hide_border=true&amp;title_color=164194&amp;text_color=5B6B82&amp;icon_color=E84910&amp;show_icons=true" alt="Estatísticas de atividade no GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-dark.svg" />
+    <img width="54%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-light.svg" alt="Estatísticas de atividade no GitHub" />
   </picture>
 </p>
 

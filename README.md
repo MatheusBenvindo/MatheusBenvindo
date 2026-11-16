@@ -9,10 +9,6 @@
   <a href="https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/README.en.md"><img alt="English" src="https://img.shields.io/badge/English-0F1D3A?style=for-the-badge" /></a>
 </p>
 
-<h3>Nesta semana na sala de aula</h3>
-
-A turma de Power BI do SENAI-DF virou uma agência de dados: cinco clientes fictícios, bases com problemas reais e uma apresentação final para quem decide. Os briefings, as bases e as atividades estão no site da <a href="https://matheusbenvindo.github.io/agencia-dados-senai/">Agência de Dados</a>.
-
 <h3>Atividade no GitHub</h3>
 
 <p align="center">

@@ -46,9 +46,11 @@ Materiais de aula com código privado.
 
 ## Testes e qualidade
 
+Materiais de aula com código privado.
+
 | Material | Conteúdo | Acesso |
 |---|---|---|
-| Testes de integração com GenAI | API HTTP local que calcula médias, com 19 testes de integração. | [Repositório](https://github.com/MatheusBenvindo/curso-12) |
+| Testes de integração com GenAI | API HTTP local que calcula médias, com 19 testes de integração. | Código privado |
 | Testes de sistemas | Material de aula com aplicação Python e testes. | Código privado |
 | Automação e relatório de testes | pytest com relatório gerado em Word. | Código privado |
 

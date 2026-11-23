@@ -19,16 +19,12 @@ TEMAS = {
 HERO = {
     'pt': {
         'papel': 'Instrutor de Tecnologia e Desenvolvimento de Sistemas',
-        'texto': ['Modelo dados, escrevo SQL e monto relatórios em Power BI.',
-                  'Automatizo rotinas com Python e ensino isso em sala de aula.'],
         'linhas': [('BI', 'Power BI, DAX, Power Query'), ('Bancos', 'SQL, modelagem relacional'),
                    ('Análise', 'Python, Pandas, scikit-learn'), ('Automação', 'Python, Power Automate')],
         'desc': 'Matheus Ribeiro, Instrutor de Tecnologia e Desenvolvimento de Sistemas.',
     },
     'en': {
         'papel': 'Technology and Systems Development Instructor',
-        'texto': ['I model data, write SQL and build Power BI reports.',
-                  'I automate routines with Python and teach all of it in class.'],
         'linhas': [('BI', 'Power BI, DAX, Power Query'), ('Databases', 'SQL, relational modeling'),
                    ('Analysis', 'Python, Pandas, scikit-learn'), ('Automation', 'Python, Power Automate')],
         'desc': 'Matheus Ribeiro, Technology and Systems Development Instructor.',
@@ -85,16 +81,14 @@ def hero(lang, tema):
          '@media (prefers-reduced-motion: reduce){.b,.l{animation:none}}</style>',
          f'<rect width="{w}" height="{a}" rx="20" fill="url(#bg)"/>',
          f'<rect width="{w}" height="{a}" rx="20" fill="url(#gl)"/><rect width="{w}" height="{a}" rx="20" fill="url(#gl2)"/>',
-         '<rect x="56" y="62" width="40" height="5" rx="2.5" fill="#E84910"/>',
-         t(54, 132, 'Matheus Ribeiro', '#FFFFFF', 54, 700, ' letter-spacing="-1"'),
-         t(56, 172, h['papel'], '#8EC5FF', 21, 600)]
-    for i, linha in enumerate(h['texto']):
-        p.append(t(56, 216 + i * 28, linha, '#C9D6EA', 18))
+         '<rect x="56" y="98" width="40" height="5" rx="2.5" fill="#E84910"/>',
+         t(54, 168, 'Matheus Ribeiro', '#FFFFFF', 54, 700, ' letter-spacing="-1"'),
+         t(56, 208, h['papel'], '#8EC5FF', 21, 600)]
     x = 56
     for c in CHIPS:
         cw = len(c) * 8.6 + 30
-        p.append(f'<rect x="{x}" y="276" width="{cw:.0f}" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>')
-        p.append(t(x + cw / 2, 297, c, '#FFFFFF', 14, 600, ' text-anchor="middle"'))
+        p.append(f'<rect x="{x}" y="240" width="{cw:.0f}" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>')
+        p.append(t(x + cw / 2, 261, c, '#FFFFFF', 14, 600, ' text-anchor="middle"'))
         x += cw + 10
     # painel com gráfico decorativo
     px, py, pw, ph = 760, 56, 384, 248

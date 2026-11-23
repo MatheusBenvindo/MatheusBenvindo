@@ -4,21 +4,19 @@
 <style>.b{transform-box:fill-box;transform-origin:50% 100%;animation:up .8s cubic-bezier(.2,.8,.2,1) both}.l{stroke-dasharray:700;animation:ln 1.4s ease-out .6s both}@keyframes up{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes ln{from{stroke-dashoffset:700}to{stroke-dashoffset:0}}@media (prefers-reduced-motion: reduce){.b,.l{animation:none}}</style>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
 <rect width="1200" height="360" rx="20" fill="url(#gl)"/><rect width="1200" height="360" rx="20" fill="url(#gl2)"/>
-<rect x="56" y="62" width="40" height="5" rx="2.5" fill="#E84910"/>
-<text x="54" y="132" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Matheus Ribeiro</text>
-<text x="56" y="172" fill="#8EC5FF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600">Technology and Systems Development Instructor</text>
-<text x="56" y="216" fill="#C9D6EA" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="400">I model data, write SQL and build Power BI reports.</text>
-<text x="56" y="244" fill="#C9D6EA" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="400">I automate routines with Python and teach all of it in class.</text>
-<rect x="56" y="276" width="99" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
-<text x="105.4" y="297" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">Power BI</text>
-<rect x="164.8" y="276" width="56" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
-<text x="192.70000000000002" y="297" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">SQL</text>
-<rect x="230.60000000000002" y="276" width="82" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
-<text x="271.40000000000003" y="297" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">Python</text>
-<rect x="322.20000000000005" y="276" width="56" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
-<text x="350.1" y="297" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">DAX</text>
-<rect x="388.00000000000006" y="276" width="56" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
-<text x="415.90000000000003" y="297" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">ETL</text>
+<rect x="56" y="98" width="40" height="5" rx="2.5" fill="#E84910"/>
+<text x="54" y="168" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Matheus Ribeiro</text>
+<text x="56" y="208" fill="#8EC5FF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600">Technology and Systems Development Instructor</text>
+<rect x="56" y="240" width="99" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
+<text x="105.4" y="261" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">Power BI</text>
+<rect x="164.8" y="240" width="56" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
+<text x="192.70000000000002" y="261" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">SQL</text>
+<rect x="230.60000000000002" y="240" width="82" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
+<text x="271.40000000000003" y="261" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">Python</text>
+<rect x="322.20000000000005" y="240" width="56" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
+<text x="350.1" y="261" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">DAX</text>
+<rect x="388.00000000000006" y="240" width="56" height="32" rx="16" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".22"/>
+<text x="415.90000000000003" y="261" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">ETL</text>
 <rect x="760" y="56" width="384" height="248" rx="18" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
 <line x1="784" y1="126" x2="1120" y2="126" stroke="#FFFFFF" stroke-opacity=".08" stroke-dasharray="4 6"/>
 <line x1="784" y1="176" x2="1120" y2="176" stroke="#FFFFFF" stroke-opacity=".08" stroke-dasharray="4 6"/>

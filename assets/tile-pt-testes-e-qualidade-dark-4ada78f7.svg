@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200" role="img" aria-label="Testes e qualidade: 3 repositórios">
+<rect x=".5" y=".5" width="359" height="199" rx="12" fill="#112349" stroke="#2A4478"/>
+<text x="26" y="52" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Testes e qualidade</text>
+<text x="26" y="80" fill="#A9C8F5" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500">3 repositórios</text>
+<text x="26" y="124" fill="#D3DEEF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Testes de sistemas</text>
+<text x="26" y="150" fill="#D3DEEF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">pytest e relatórios</text>
+<text x="26" y="176" fill="#D3DEEF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Testes de integração</text>
+</svg>

@@ -100,10 +100,15 @@ def card_langs(d, dark):
 
 
 if __name__ == '__main__':
+    import sys
+    sys.path.insert(0, os.path.dirname(__file__))
+    from assets import salvar, atualizar_readmes  # mesmo esquema de nome por versão, contra cache
     d = json.load(open(os.environ['STATS_JSON'])) if os.environ.get('STATS_JSON') else coletar()
     os.makedirs(OUT, exist_ok=True)
+    renomes = {}
     for dark in (False, True):
         s = 'dark' if dark else 'light'
-        open(os.path.join(OUT, f'stats-{s}.svg'), 'w', encoding='utf-8').write(card_stats(d, dark))
-        open(os.path.join(OUT, f'langs-{s}.svg'), 'w', encoding='utf-8').write(card_langs(d, dark))
+        salvar(f'stats-{s}', card_stats(d, dark), renomes)
+        salvar(f'langs-{s}', card_langs(d, dark), renomes)
+    atualizar_readmes(renomes)
     print(json.dumps(d, ensure_ascii=False))

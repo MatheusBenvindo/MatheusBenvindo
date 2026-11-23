@@ -1,10 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210" role="img" aria-label="Engineering &amp; AKCIT: 4 repositories">
-<rect x=".5" y=".5" width="359" height="209" rx="10" fill="#0D1117" stroke="#30363D"/>
-<rect x="24" y="24" width="20" height="3" rx="1.5" fill="#E84910"/>
-<text x="24" y="62" fill="#E6EDF3" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700">Engineering &amp; AKCIT</text>
-<text x="24" y="88" fill="#FFAD8E" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600">4 repositories</text>
-<line x1="24" y1="108" x2="336" y2="108" stroke="#21262D"/>
-<text x="24" y="138" fill="#C9D1D9" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Requirements</text>
-<text x="24" y="164" fill="#C9D1D9" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Architecture and diagrams</text>
-<text x="24" y="190" fill="#C9D1D9" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">API monitoring</text>
+<defs><linearGradient id="gengenhariaeakcit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#163266"/><stop offset="1" stop-color="#0E2148"/></linearGradient><radialGradient id="gengenhariaeakcitr" cx="1" cy="0" r=".8"><stop stop-color="#E84910" stop-opacity=".22"/><stop offset="1" stop-color="#E84910" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="359" height="209" rx="14" fill="url(#gengenhariaeakcit)" stroke="#5BB8F0" stroke-opacity=".35"/>
+<rect x=".5" y=".5" width="359" height="209" rx="14" fill="url(#gengenhariaeakcitr)"/>
+<text x="338" y="192" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="84" font-weight="800" text-anchor="end" fill-opacity=".10">4</text>
+<rect x="24" y="26" width="22" height="4" rx="2" fill="#E84910"/>
+<text x="24" y="64" fill="#FFFFFF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Engineering &amp; AKCIT</text>
+<text x="24" y="90" fill="#FFB08F" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600">4 repositories</text>
+<line x1="24" y1="108" x2="336" y2="108" stroke="#FFFFFF" stroke-opacity=".14"/>
+<circle cx="28" cy="133" r="3" fill="#E84910"/>
+<text x="40" y="138" fill="#D3DEEF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400">Requirements</text>
+<circle cx="28" cy="158" r="3" fill="#E84910"/>
+<text x="40" y="163" fill="#D3DEEF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400">Architecture and diagrams</text>
+<circle cx="28" cy="183" r="3" fill="#E84910"/>
+<text x="40" y="188" fill="#D3DEEF" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400">API monitoring</text>
 </svg>

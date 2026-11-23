@@ -49,18 +49,21 @@ FONTE = "'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif"
 
 
 def tema(dark):
-    # mesmas cores do cabeçalho e dos cartões (assets.py)
-    return {'ink': '#E6EDF3' if dark else '#0B2545', 'sub': '#8B949E' if dark else '#6C757D',
-            'acc': '#E84910', 'fundo': '#0D1117' if dark else '#FFFFFF',
-            'borda': '#30363D' if dark else '#D8DEE6', 'linha': '#21262D' if dark else '#E6EAF0'}
+    # mesmo estilo dos cartões de assunto (assets.py): fundo azul em degradê nos dois temas
+    return {'ink': '#FFFFFF', 'sub': '#AFC2DE', 'acc': '#E84910',
+            'g1': '#163266' if dark else '#164194', 'g2': '#0E2148' if dark else '#0B2350',
+            'borda': '#5BB8F0' if dark else '#164194', 'linha': '#FFFFFF'}
 
 
 def moldura(t, titulo, direita=''):
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" font-family="{FONTE}">'
-            f'<rect x=".5" y=".5" width="399" height="219" rx="10" fill="{t["fundo"]}" stroke="{t["borda"]}"/>'
-            f'<rect x="24" y="24" width="20" height="3" rx="1.5" fill="{t["acc"]}"/>'
-            f'<text x="24" y="54" fill="{t["ink"]}" font-size="17" font-weight="700">{titulo}</text>'
-            + (f'<text x="376" y="54" text-anchor="end" fill="{t["sub"]}" font-size="12">{direita}</text>' if direita else ''))
+            f'<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="{t["g1"]}"/><stop offset="1" stop-color="{t["g2"]}"/></linearGradient>'
+            f'<radialGradient id="gl" cx="1" cy="0" r=".8"><stop stop-color="#E84910" stop-opacity=".2"/><stop offset="1" stop-color="#E84910" stop-opacity="0"/></radialGradient></defs>'
+            f'<rect x=".5" y=".5" width="399" height="219" rx="14" fill="url(#bg)" stroke="{t["borda"]}" stroke-opacity=".35"/>'
+            f'<rect x=".5" y=".5" width="399" height="219" rx="14" fill="url(#gl)"/>'
+            f'<rect x="24" y="24" width="22" height="4" rx="2" fill="{t["acc"]}"/>'
+            f'<text x="24" y="56" fill="{t["ink"]}" font-size="18" font-weight="700">{titulo}</text>'
+            + (f'<text x="376" y="56" text-anchor="end" fill="{t["sub"]}" font-size="12">{direita}</text>' if direita else ''))
 
 
 def card_stats(d, dark):
@@ -73,7 +76,7 @@ def card_stats(d, dark):
         linhas += (f'<text x="24" y="{y}" fill="{t["sub"]}" font-size="14">{k}</text>'
                    f'<text x="376" y="{y}" text-anchor="end" fill="{t["ink"]}" font-size="15" font-weight="700">{v}</text>')
         if i < len(itens) - 1:
-            linhas += f'<line x1="24" y1="{y + 12}" x2="376" y2="{y + 12}" stroke="{t["linha"]}"/>'
+            linhas += f'<line x1="24" y1="{y + 12}" x2="376" y2="{y + 12}" stroke="{t["linha"]}" stroke-opacity=".12"/>'
     return moldura(t, 'Atividade no GitHub', f'desde {d["desde"]}') + linhas + '</svg>'
 
 

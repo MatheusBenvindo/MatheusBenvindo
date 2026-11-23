@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210" role="img" aria-label="Python &amp; AI: 2 repositories">
+<rect x=".5" y=".5" width="359" height="209" rx="10" fill="#FFFFFF" stroke="#D8DEE6"/>
+<rect x="24" y="24" width="20" height="3" rx="1.5" fill="#E84910"/>
+<text x="24" y="62" fill="#0B2545" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700">Python &amp; AI</text>
+<text x="24" y="88" fill="#B5360B" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600">2 repositories</text>
+<line x1="24" y1="108" x2="336" y2="108" stroke="#E6EAF0"/>
+<text x="24" y="138" fill="#3D4A5C" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Fundamentals and automation</text>
+<text x="24" y="164" fill="#3D4A5C" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Data analysis</text>
+<text x="24" y="190" fill="#3D4A5C" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Machine learning</text>
+</svg>

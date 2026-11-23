@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210" role="img" aria-label="Projects: 1 repository">
+<rect x=".5" y=".5" width="359" height="209" rx="10" fill="#0D1117" stroke="#30363D"/>
+<rect x="24" y="24" width="20" height="3" rx="1.5" fill="#E84910"/>
+<text x="24" y="62" fill="#E6EDF3" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700">Projects</text>
+<text x="24" y="88" fill="#FFAD8E" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600">1 repository</text>
+<line x1="24" y1="108" x2="336" y2="108" stroke="#21262D"/>
+<text x="24" y="138" fill="#C9D1D9" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">BankFlow: queue management</text>
+<text x="24" y="164" fill="#C9D1D9" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400">Public demo</text>
+</svg>

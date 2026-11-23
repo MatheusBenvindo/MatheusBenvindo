@@ -45,22 +45,36 @@ def coletar():
     }
 
 
+FONTE = "'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif"
+
+
 def tema(dark):
-    return {'ink': '#E8EEF8' if dark else '#14213D', 'sub': '#9FB2CF' if dark else '#5B6B82', 'tit': '#5BB8F0' if dark else '#164194',
-            'acc': '#E84910', 'linha': '#2A3A5C' if dark else '#D5DCE8', 'fundo': 'none'}
+    # mesmas cores do cabeçalho e dos cartões (assets.py)
+    return {'ink': '#E6EDF3' if dark else '#0B2545', 'sub': '#8B949E' if dark else '#6C757D',
+            'acc': '#E84910', 'fundo': '#0D1117' if dark else '#FFFFFF',
+            'borda': '#30363D' if dark else '#D8DEE6', 'linha': '#21262D' if dark else '#E6EAF0'}
+
+
+def moldura(t, titulo, direita=''):
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" font-family="{FONTE}">'
+            f'<rect x=".5" y=".5" width="399" height="219" rx="10" fill="{t["fundo"]}" stroke="{t["borda"]}"/>'
+            f'<rect x="24" y="24" width="20" height="3" rx="1.5" fill="{t["acc"]}"/>'
+            f'<text x="24" y="54" fill="{t["ink"]}" font-size="17" font-weight="700">{titulo}</text>'
+            + (f'<text x="376" y="54" text-anchor="end" fill="{t["sub"]}" font-size="12">{direita}</text>' if direita else ''))
 
 
 def card_stats(d, dark):
     t = tema(dark)
     itens = [('Repositórios públicos', d['repos']), (f'Commits em {d["ano"]}', d['commits'] if d['commits'] is not None else '–'),
              ('Estrelas recebidas', d['estrelas']), ('Seguidores', d['seguidores'])]
-    linhas = ''.join(f'<g transform="translate(24,{70 + i * 34})"><rect width="6" height="20" rx="3" y="-15" fill="{t["acc"] if i == 0 else t["tit"]}"/>'
-                     f'<text x="18" fill="{t["sub"]}" font-size="14">{k}</text><text x="372" text-anchor="end" fill="{t["ink"]}" font-size="16" font-weight="700">{v}</text></g>'
-                     for i, (k, v) in enumerate(itens))
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" font-family="Segoe UI, Ubuntu, sans-serif">'
-            f'<rect x=".5" y=".5" width="399" height="209" rx="10" fill="none" stroke="{t["linha"]}"/>'
-            f'<text x="24" y="36" fill="{t["tit"]}" font-size="17" font-weight="700">Atividade no GitHub</text>'
-            f'<text x="376" y="36" text-anchor="end" fill="{t["sub"]}" font-size="12">desde {d["desde"]}</text>{linhas}</svg>')
+    linhas = ''
+    for i, (k, v) in enumerate(itens):
+        y = 98 + i * 32
+        linhas += (f'<text x="24" y="{y}" fill="{t["sub"]}" font-size="14">{k}</text>'
+                   f'<text x="376" y="{y}" text-anchor="end" fill="{t["ink"]}" font-size="15" font-weight="700">{v}</text>')
+        if i < len(itens) - 1:
+            linhas += f'<line x1="24" y1="{y + 12}" x2="376" y2="{y + 12}" stroke="{t["linha"]}"/>'
+    return moldura(t, 'Atividade no GitHub', f'desde {d["desde"]}') + linhas + '</svg>'
 
 
 def card_langs(d, dark):
@@ -69,21 +83,19 @@ def card_langs(d, dark):
     x, barra = 24, ''
     for k, v in d['langs']:
         w = 352 * v / tot
-        barra += f'<rect x="{x:.1f}" y="52" width="{max(w, 1.5):.1f}" height="10" fill="{CORES.get(k, "#8E8E93")}"/>'
+        barra += f'<rect x="{x:.1f}" y="72" width="{max(w, 1.5):.1f}" height="8" fill="{CORES.get(k, "#8E8E93")}"/>'
         x += w
     leg = ''
     for i, (k, v) in enumerate(d['langs']):
-        cx, cy = 24 + (i % 2) * 180, 92 + (i // 2) * 26
-        leg += (f'<circle cx="{cx + 5}" cy="{cy - 4}" r="5" fill="{CORES.get(k, "#8E8E93")}"/>'
-                f'<text x="{cx + 16}" y="{cy}" fill="{t["ink"]}" font-size="13">{k} <tspan fill="{t["sub"]}">{v / tot * 100:.1f}%</tspan></text>')
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" font-family="Segoe UI, Ubuntu, sans-serif">'
-            f'<rect x=".5" y=".5" width="399" height="209" rx="10" fill="none" stroke="{t["linha"]}"/>'
-            f'<text x="24" y="36" fill="{t["tit"]}" font-size="17" font-weight="700">Linguagens mais usadas</text>'
-            f'<clipPath id="c"><rect x="24" y="52" width="352" height="10" rx="5"/></clipPath><g clip-path="url(#c)">{barra}</g>{leg}</svg>')
+        cx, cy = 24 + (i % 2) * 180, 114 + (i // 2) * 28
+        leg += (f'<circle cx="{cx + 5}" cy="{cy - 4}" r="4.5" fill="{CORES.get(k, "#8E8E93")}"/>'
+                f'<text x="{cx + 16}" y="{cy}" fill="{t["ink"]}" font-size="13.5">{k} <tspan fill="{t["sub"]}">{v / tot * 100:.1f}%</tspan></text>')
+    return (moldura(t, 'Linguagens mais usadas')
+            + f'<clipPath id="c"><rect x="24" y="72" width="352" height="8" rx="4"/></clipPath><g clip-path="url(#c)">{barra}</g>{leg}</svg>')
 
 
 if __name__ == '__main__':
-    d = coletar()
+    d = json.load(open(os.environ['STATS_JSON'])) if os.environ.get('STATS_JSON') else coletar()
     os.makedirs(OUT, exist_ok=True)
     for dark in (False, True):
         s = 'dark' if dark else 'light'

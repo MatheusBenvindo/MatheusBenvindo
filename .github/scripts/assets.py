@@ -18,20 +18,20 @@ TEMAS = {
 
 HERO = {
     'pt': {
-        'papel': 'Dados e BI · Instrutor de tecnologia',
+        'papel': 'Instrutor de Tecnologia e Desenvolvimento de Sistemas',
         'texto': ['Modelo dados, escrevo SQL e monto relatórios em Power BI.',
                   'Automatizo rotinas com Python e ensino isso em sala de aula.'],
         'linhas': [('BI', 'Power BI, DAX, Power Query'), ('Bancos', 'SQL, modelagem relacional'),
                    ('Análise', 'Python, Pandas, scikit-learn'), ('Automação', 'Python, Power Automate')],
-        'desc': 'Matheus Ribeiro: dados e BI, instrutor de tecnologia.',
+        'desc': 'Matheus Ribeiro, Instrutor de Tecnologia e Desenvolvimento de Sistemas.',
     },
     'en': {
-        'papel': 'Data & BI · Technology instructor',
+        'papel': 'Technology and Systems Development Instructor',
         'texto': ['I model data, write SQL and build Power BI reports.',
                   'I automate routines with Python and teach all of it in class.'],
         'linhas': [('BI', 'Power BI, DAX, Power Query'), ('Databases', 'SQL, relational modeling'),
                    ('Analysis', 'Python, Pandas, scikit-learn'), ('Automation', 'Python, Power Automate')],
-        'desc': 'Matheus Ribeiro: data and BI, technology instructor.',
+        'desc': 'Matheus Ribeiro, Technology and Systems Development Instructor.',
     },
 }
 

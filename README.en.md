@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/hero-en-dark.svg" /><img width="100%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/hero-en-light.svg" alt="Matheus Ribeiro: data and BI, technology instructor" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/hero-en-dark.svg" /><img width="100%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/hero-en-light.svg" alt="Matheus Ribeiro, Technology and Systems Development Instructor" /></picture>
 
 <p align="center">
   <a href="https://matheusbenvindo.github.io/MBR-Portfolio/">Portfolio</a> &nbsp;·&nbsp;

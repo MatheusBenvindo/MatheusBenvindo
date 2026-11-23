@@ -29,7 +29,7 @@ MBA em Análise de Dados, pós-graduação em Auditoria e Governança de TI e gr
 | Dados e BI | Power BI (DAX, Power Query), SQL, Python com Pandas e scikit-learn, Jupyter |
 | Bancos | Modelagem relacional, MySQL, SQLite |
 | Automação | Scripts em Python, Power Automate |
-| Desenvolvimento | Django, JavaScript, C# e .NET, HTML, CSS, Tailwind, Bootstrap, Git |
+| Desenvolvimento | Django, JavaScript, C# e .NET, HTML, CSS, Bootstrap, Git |
 
 ### Projetos em destaque
 

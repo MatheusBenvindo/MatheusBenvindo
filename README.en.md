@@ -9,7 +9,7 @@
 
 ### About
 
-I work with data and teach technology. I am currently a systems development and databases instructor at SENAI, where I also run a Power BI class.
+I work with data and teach technology. I am currently a systems development and databases instructor at SENAI.
 
 Before that, as an IT analyst in data, governance and security, I automated GRC routines with Python and SQL and built Power BI dashboards to track access and audits.
 
@@ -37,7 +37,6 @@ MBA in Data Analytics, postgraduate degree in IT Audit and Governance, and a Com
 |---|---|---|
 | [Flight delay prediction](https://github.com/MatheusBenvindo/flight-delay-prediction-ml) | Classification model with feature engineering, evaluated on accuracy and F1. | Python, Pandas, XGBoost, scikit-learn |
 | [Advanced DQL and ETL](https://github.com/MatheusBenvindo/DQL-AVANCADO-DBAS) | Interactive lab on JOINs, CASE WHEN, data investigation and ETL pipelines. | SQL |
-| [Data Agency](https://matheusbenvindo.github.io/agencia-dados-senai/) | A Power BI class run as a data agency: five fictional clients, messy real-world datasets and a final pitch. | Power BI |
 | [Python: automation and logic](https://github.com/MatheusBenvindo/python-fundamentals-automation) | Exercises and projects on files, OOP, ETL and business rules. | Python, Django |
 | [BankFlow](https://github.com/MatheusBenvindo/BankFlow-Demo) | Demo of a queue and customer service system with real-time updates. | C#, .NET, SignalR, SQLite |
 

@@ -36,7 +36,7 @@ MBA in Data Analytics, postgraduate degree in IT Audit and Governance, and a Com
 | Project | What it is | Stack |
 |---|---|---|
 | [Flight delay prediction](https://github.com/MatheusBenvindo/flight-delay-prediction-ml) | Classification model with feature engineering, evaluated on accuracy and F1. | Python, Pandas, XGBoost, scikit-learn |
-| [Advanced DQL and ETL](https://github.com/MatheusBenvindo/DQL-AVANCADO-DBAS) | Interactive lab on JOINs, CASE WHEN, data investigation and ETL pipelines. | SQL |
+| [Advanced DQL and ETL](https://matheusbenvindo.github.io/DQL-AVANCADO-DBAS/) | Interactive lab on JOINs, CASE WHEN, data investigation and ETL pipelines. | SQL |
 | [Python: automation and logic](https://github.com/MatheusBenvindo/python-fundamentals-automation) | Exercises and projects on files, OOP, ETL and business rules. | Python, Django |
 | [BankFlow](https://github.com/MatheusBenvindo/BankFlow-Demo) | Demo of a queue and customer service system with real-time updates. | C#, .NET, SignalR, SQLite |
 

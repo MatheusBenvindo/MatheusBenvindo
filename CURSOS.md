@@ -1,78 +1,74 @@
 # Materiais de curso e projetos
 
-[← Perfil](https://github.com/MatheusBenvindo)
+[Voltar ao perfil](https://github.com/MatheusBenvindo)
 
-Índice por assunto dos repositórios organizados. A identificação SENAI aparece nos materiais que já trazem essa referência.
-
-[Banco de dados](#banco-de-dados) · [Python e IA](#python-e-ia) · [Desenvolvimento web](#desenvolvimento-web) · [Testes e qualidade](#testes-e-qualidade) · [Engenharia e AKCIT](#engenharia-e-akcit) · [Projetos](#projetos)
+[Banco de dados](#banco-de-dados) | [Python e IA](#python-e-ia) | [Desenvolvimento web](#desenvolvimento-web) | [Testes e qualidade](#testes-e-qualidade) | [Engenharia e AKCIT](#engenharia-e-akcit) | [Projetos](#projetos)
 
 <a id="banco-de-dados"></a>
 
 ## Banco de dados
 
-| Material | Conteúdo | Identificação |
+Materiais do curso técnico de Administração de Banco de Dados do SENAI. O código é privado; os sites ficam abertos para os alunos.
+
+| Material | Conteúdo | Acesso |
 |---|---|---|
-| [Modelagem lógica de dados](https://github.com/MatheusBenvindo/Modelagem_Logica-Inicial) | Transformação de relacionamentos, cardinalidade, normalização e integridade referencial. | SENAI |
-| [SQL • Restrições e integridade](https://github.com/MatheusBenvindo/Atividade-Restricoes-DBA) | Exercícios de constraints, chaves e integridade relacional. | SENAI |
-| [SQL • Alterações de estrutura](https://github.com/MatheusBenvindo/Atividade-Alteracoes-DBA) | Exercícios de ALTER TABLE para evolução de tabelas, colunas e relacionamentos. | SENAI |
-| [SQL • Consultas e filtros](https://github.com/MatheusBenvindo/Atividade-Consultas-DBA) | Laboratório de projeção, filtros e lógica booleana com atividades para MySQL Workbench. | — |
-| [DQL avançado e ETL](https://github.com/MatheusBenvindo/DQL-AVANCADO-DBAS) | Laboratório de JOINs, CASE WHEN, investigação de dados e pipelines ETL. | SENAI |
-| [DBA • Triagem de incidentes](https://github.com/MatheusBenvindo/CURSODBA-Atividade-FuncoesDBA) | Simulador de priorização de incidentes de disponibilidade, segurança e integridade. | SENAI |
-| [DBA • Investigação de clientes](https://github.com/MatheusBenvindo/QUA.070.121-Atividade-Clientes-DBA) | Atividade de levantamento de requisitos e organização de evidências de clientes. | SENAI |
-| [DBA • Projeto integrador UC01](https://github.com/MatheusBenvindo/UC01-Projeto-integrador-QUA.070.121) | Laboratório de diagnóstico, abstração de dados, modelagem de entidades e relacionamentos. | SENAI |
+| Investigação de clientes | Levantamento de requisitos a partir das evidências de cada cliente. | [Abrir](https://matheusbenvindo.github.io/QUA.070.121-Atividade-Clientes-DBA/) |
+| Modelagem lógica de dados | Cardinalidade, chaves, normalização e integridade referencial. | [Abrir](https://matheusbenvindo.github.io/Modelagem_Logica-Inicial/) |
+| Projeto integrador UC01 | Diagnóstico dos dados, entidades, relacionamentos e arquitetura final. | [Abrir](https://matheusbenvindo.github.io/UC01-Projeto-integrador-QUA.070.121/) |
+| Restrições e integridade | Constraints, chaves e integridade referencial em SQL. | [Abrir](https://matheusbenvindo.github.io/Atividade-Restricoes-DBA/) |
+| Alterações de estrutura | ALTER TABLE para evoluir tabelas, colunas e relacionamentos. | [Abrir](https://matheusbenvindo.github.io/Atividade-Alteracoes-DBA/) |
+| Consultas e filtros | SELECT, filtros e lógica booleana com banco sorteado por aluno. | [Abrir](https://matheusbenvindo.github.io/Atividade-Consultas-DBA/) |
+| DQL avançado e ETL | JOINs, CASE WHEN, investigação de dados e pipelines ETL. | [Abrir](https://matheusbenvindo.github.io/DQL-AVANCADO-DBAS/) |
+| Triagem de incidentes | Simulador em grupo de priorização de incidentes. | [Abrir](https://matheusbenvindo.github.io/CURSODBA-Atividade-FuncoesDBA/) |
 
 <a id="python-e-ia"></a>
 
 ## Python e IA
 
-| Material | Conteúdo | Identificação |
+| Material | Conteúdo | Acesso |
 |---|---|---|
-| [Fundamentos de Python e automação](https://github.com/MatheusBenvindo/python-fundamentals-automation) | Exercícios e projetos de Python, arquivos, orientação a objetos, dados, interfaces e Django. | — |
-| [Python e inteligência artificial](https://github.com/MatheusBenvindo/flight-delay-prediction-ml) | Materiais de fundamentos, análise de dados, machine learning e visão computacional. | SENAI |
+| Python e IA no SENAI | Previsão de atraso de voos com XGBoost, modelos preditivos e visão computacional. | [Repositório](https://github.com/MatheusBenvindo/flight-delay-prediction-ml) |
+| Python: fundamentos e automação | Scripts por assunto, de cálculos a CRUD com SQLite, Tkinter e Django. | [Repositório](https://github.com/MatheusBenvindo/python-fundamentals-automation) |
 
 <a id="desenvolvimento-web"></a>
 
 ## Desenvolvimento web
 
-| Material | Conteúdo | Identificação |
+Materiais de aula com código privado.
+
+| Material | Conteúdo | Acesso |
 |---|---|---|
-| [Codificação back-end • SENAI](https://github.com/MatheusBenvindo/Codifica-o-BackEnd---Senai) | Projetos de desenvolvimento back-end em C# e .NET. | SENAI |
-| [Django • CRUD de equipamentos](https://github.com/MatheusBenvindo/037.011_CRUD_DJANGO) | Projeto Django com cadastro de marcas e equipamentos. | — |
-| [Django • Diagnóstico de erros](https://github.com/MatheusBenvindo/Atividade-Erros-Django) | Aplicação didática TechStore com produtos, carrinho, pedidos e pagamento. | — |
+| TechStore em Django | Loja didática com erros para encontrar e corrigir. | Código privado |
+| CRUD de equipamentos em Django | Cadastro de marcas e equipamentos. | Código privado |
+| Back-end em C# e .NET | Projetos da unidade de codificação back-end do SENAI. | Código privado |
 
 <a id="testes-e-qualidade"></a>
 
 ## Testes e qualidade
 
-| Material | Conteúdo | Identificação |
+| Material | Conteúdo | Acesso |
 |---|---|---|
-| [Testes de sistemas](https://github.com/MatheusBenvindo/037.011---Testes-de-sistemas) | Material de aula com aplicação Python, templates e testes. | — |
-| [Automação e relatório de testes](https://github.com/MatheusBenvindo/automacao-testes) | Execução de testes com pytest e geração de relatório em Word. | — |
-| [Testes de integração com GenAI](https://github.com/MatheusBenvindo/curso-12) | Exercício de API HTTP local, cálculo de médias e testes de integração. | — |
+| Testes de integração com GenAI | API HTTP local que calcula médias, com 19 testes de integração. | [Repositório](https://github.com/MatheusBenvindo/curso-12) |
+| Testes de sistemas | Material de aula com aplicação Python e testes. | Código privado |
+| Automação e relatório de testes | pytest com relatório gerado em Word. | Código privado |
 
 <a id="engenharia-e-akcit"></a>
 
 ## Engenharia e AKCIT
 
-| Material | Conteúdo | Identificação |
+Trabalhos do curso de Engenharia de Software com IA generativa (AKCIT/UFG).
+
+| Material | Conteúdo | Acesso |
 |---|---|---|
-| [AKCIT • Engenharia de requisitos](https://github.com/MatheusBenvindo/AKCIT-2---ENGENHARIA-DE-REQUISITOS) | Análise e especificação do sistema de gestão de eventos Eventus. | — |
-| [AKCIT • SkyMetrics](https://github.com/MatheusBenvindo/AKCIT-MINI-PROJETO) | Consulta meteorológica em Python com conversão de temperaturas e testes. | — |
-| [AKCIT • Arquitetura e diagramas](https://github.com/MatheusBenvindo/DiagramaCodeAkcit) | Documentação de arquitetura para rastreamento e categorização de despesas. | — |
-| [Monitoramento de APIs e riscos](https://github.com/MatheusBenvindo/projeto-riscos-api) | Monitor HTTP com tratamento de falhas e documentação de riscos técnicos. | — |
+| Engenharia de requisitos | Especificação do Eventus, sistema de gestão de eventos. | [Repositório](https://github.com/MatheusBenvindo/AKCIT-2---ENGENHARIA-DE-REQUISITOS) |
+| SkyMetrics | Consulta de clima em Python com conversão de temperaturas e testes. | [Repositório](https://github.com/MatheusBenvindo/AKCIT-MINI-PROJETO) |
+| Arquitetura e diagramas | Sistema de controle de despesas em visão de containers. | [Repositório](https://github.com/MatheusBenvindo/DiagramaCodeAkcit) |
+| Monitor de APIs | Monitor HTTP com tratamento de falhas e riscos técnicos. | [Repositório](https://github.com/MatheusBenvindo/projeto-riscos-api) |
 
 <a id="projetos"></a>
 
 ## Projetos
 
-| Material | Conteúdo | Identificação |
+| Material | Conteúdo | Acesso |
 |---|---|---|
-| [BankFlow • Demonstração](https://github.com/MatheusBenvindo/BankFlow-Demo) | Demonstração de um sistema de gerenciamento de filas e atendimento. | — |
-
-## Percursos de consulta
-
-- **Banco de dados:** investigação de clientes → modelagem lógica → projeto integrador → restrições → alterações → consultas → DQL e ETL. O simulador de triagem complementa a prática de administração.
-- **Python e IA:** fundamentos de Python → análise de dados → machine learning → visão computacional.
-- **Qualidade:** testes de sistemas → automação de relatórios → testes de integração.
-
-
+| BankFlow | Sistema de filas e atendimento com atualização em tempo real. | [Demonstração](https://matheusbenvindo.github.io/BankFlow-Demo/) e [repositório](https://github.com/MatheusBenvindo/BankFlow-Demo) |

@@ -3,7 +3,10 @@
 Uso: python .github/scripts/assets.py
 Os textos ficam aqui; para mudar algo no cabeçalho ou nos cartões, edite e rode de novo.
 As cores seguem o portfólio (azul #164194, laranja #E84910)."""
+import glob
+import hashlib
 import os
+import re
 from html import escape
 
 OUT = os.path.join(os.path.dirname(__file__), '..', '..', 'assets')
@@ -138,11 +141,34 @@ def tile(slug, lang, tema):
     return '\n'.join(p)
 
 
+def salvar(nome, conteudo, renomes):
+    """Salva com um hash do conteúdo no nome (ex.: hero-pt-dark-1a2b3c4d.svg).
+    Assim cada versão tem um endereço novo e o cache do GitHub não mostra imagem antiga."""
+    h = hashlib.sha1(conteudo.encode('utf-8')).hexdigest()[:8]
+    for velho in glob.glob(os.path.join(OUT, f'{nome}-' + '[0-9a-f]' * 8 + '.svg')) + glob.glob(os.path.join(OUT, f'{nome}.svg')):
+        os.remove(velho)
+    open(os.path.join(OUT, f'{nome}-{h}.svg'), 'w', encoding='utf-8').write(conteudo)
+    renomes[nome] = f'{nome}-{h}.svg'
+
+
+def atualizar_readmes(renomes):
+    raiz = os.path.join(os.path.dirname(__file__), '..', '..')
+    for arq in ('README.md', 'README.en.md'):
+        cam = os.path.join(raiz, arq)
+        txt = open(cam, encoding='utf-8').read()
+        for nome, novo in renomes.items():
+            txt = re.sub(rf'assets/{re.escape(nome)}(-[0-9a-f]{{8}})?\.svg(\?v=\d+)?', f'assets/{novo}', txt)
+        txt = re.sub(r'(assets/[\w./-]+\.svg)\?v=\d+', r'\1', txt)
+        open(cam, 'w', encoding='utf-8').write(txt)
+
+
 if __name__ == '__main__':
     os.makedirs(OUT, exist_ok=True)
+    renomes = {}
     for lang in ('pt', 'en'):
         for tema in ('light', 'dark'):
-            open(os.path.join(OUT, f'hero-{lang}-{tema}.svg'), 'w', encoding='utf-8').write(hero(lang, tema))
+            salvar(f'hero-{lang}-{tema}', hero(lang, tema), renomes)
             for slug in TILES:
-                open(os.path.join(OUT, f'tile-{lang}-{slug}-{tema}.svg'), 'w', encoding='utf-8').write(tile(slug, lang, tema))
+                salvar(f'tile-{lang}-{slug}-{tema}', tile(slug, lang, tema), renomes)
+    atualizar_readmes(renomes)
     print('ok')

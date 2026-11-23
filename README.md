@@ -43,8 +43,8 @@ MBA em Análise de Dados, pós-graduação em Auditoria e Governança de TI e gr
 ### Atividade no GitHub
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-dark.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-light.svg" alt="Linguagens mais usadas" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-dark.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-light.svg" alt="Estatísticas de atividade no GitHub" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-dark-da9635be.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-light-ac8f194e.svg" alt="Linguagens mais usadas" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-dark-33fcfcb0.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-light-485f9be9.svg" alt="Estatísticas de atividade no GitHub" /></picture>
 </p>
 
 ### Materiais por assunto

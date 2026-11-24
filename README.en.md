@@ -43,8 +43,8 @@ MBA in Data Analytics, postgraduate degree in IT Audit and Governance, and a Com
 ### GitHub activity
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-dark-da9635be.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-light-ac8f194e.svg" alt="Most used languages" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-dark-33fcfcb0.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-light-485f9be9.svg" alt="GitHub activity statistics" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-dark-c56fd5ab.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/langs-light-e07c366f.svg" alt="Most used languages" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-dark-a75598ad.svg" /><img width="49%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/stats-light-668e0d8c.svg" alt="GitHub activity statistics" /></picture>
 </p>
 
 ### Materials by subject

@@ -49,8 +49,6 @@ MBA em Análise de Dados, pós-graduação em Auditoria e Governança de TI e gr
 
 ### Materiais por assunto
 
-<iframe title="B.I FAB SIM" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTFmZjEyYTUtMDhiNi00NjE1LTk3NTAtYWY3YTg0ODIxOWYyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 <table>
   <tr>
     <td width="33%"><a href="https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md#banco-de-dados"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/tile-pt-banco-de-dados-dark-187f82cb.svg" /><img width="100%" src="https://raw.githubusercontent.com/MatheusBenvindo/MatheusBenvindo/main/assets/tile-pt-banco-de-dados-light-3a2c5e2e.svg" alt="Banco de dados: 8 repositórios" /></picture></a></td>
